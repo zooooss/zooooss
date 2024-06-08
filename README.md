@@ -13,7 +13,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "left"> <a href=https://zoooos.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://zoooos.tistory.com/"> </a>
+    <div align= "left"> <a href=https://marymonkey.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://zoooos.tistory.com/"> </a>
           </div>  <br> 
     <div align= "left">  </div> 
     </div>
